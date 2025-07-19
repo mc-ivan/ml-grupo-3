@@ -15,7 +15,7 @@
 # GRUPO 3
 ### Integrantes:
 - Karen Torrico 
-- Karen Huacota 
+- Karem Huacota 
 - Yesika Luna
 - Elvis Miranda
 - Ivan Mamani 
