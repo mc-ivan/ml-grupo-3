@@ -16,7 +16,7 @@
 ### Integrantes:
 - Karen Torrico 
 - Karen Huacota 
-- Jessica Luna
+- Yesika Luna
 - Elvis Miranda
 - Ivan Mamani 
 
@@ -469,7 +469,7 @@ Para explorar el notebook y reproducir los resultados, puedes abrir el proyecto 
 
 ## Licencia
 
-Este informe y los contenidos asociados (código fuente, gráficos, interpretaciones y documentación) han sido desarrollados con fines académicos y/o investigativos en el marco del proyecto de análisis de modelos de clasificación aplicados a predicción de comportamiento de clientes.
+Este informe y los contenidos asociados (código fuente, gráficos, interpretaciones y documentación) han sido desarrollados con fines académicos y/o investigativos en el marco del proyecto de análisis de modelos de clasificación.
 
 Salvo que se indique lo contrario, este trabajo se distribuye bajo la Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).
 
