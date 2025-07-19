@@ -5,6 +5,8 @@
 
 # Proyecto de Clasificación Supervisada - Clasificación Binaria
 
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mc-ivan/ml-grupo-3/blob/main/notebook/proyecto_final_grupo_3_ajustado_var_originales.ipynb)
+
 ## Datos Generales:
 **Maestria en Ciencia de Datos e Inteligencia Artifivial V1-E2**
 
@@ -458,6 +460,12 @@ Es importante establecer métricas de seguimiento para validar el comportamiento
 
 En síntesis, el modelo Random Forest representa una herramienta valiosa para anticipar comportamientos de compra, pero su efectividad dependerá del mantenimiento continuo, la integración con decisiones estratégicas de negocio y la capacidad para adaptarse a contextos dinámicos del mercado.
 
+## Ejecutar en Google Colab
+
+Para explorar el notebook y reproducir los resultados, puedes abrir el proyecto directamente en Google Colab usando el siguiente botón:
+
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mc-ivan/ml-grupo-3/blob/main/notebook/proyecto_final_grupo_3_ajustado_var_originales.ipynb)
+
 
 ## Licencia
 
@@ -465,4 +473,6 @@ Este informe y los contenidos asociados (código fuente, gráficos, interpretaci
 
 Salvo que se indique lo contrario, este trabajo se distribuye bajo la Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).
 
-Para más detalles sobre la licencia, consultar: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Para más detalles sobre la licencia, consultar:
+
+[![Licencia: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
